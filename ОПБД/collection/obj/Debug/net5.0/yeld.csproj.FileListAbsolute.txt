@@ -1,0 +1,16 @@
+C:\Users\Ivan\Desktop\скопин\yeld\obj\Debug\net5.0\yeld.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\скопин\yeld\obj\Debug\net5.0\yeld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\скопин\yeld\obj\Debug\net5.0\yeld.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\скопин\yeld\obj\Debug\net5.0\yeld.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\скопин\yeld\obj\Debug\net5.0\yeld.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\скопин\yeld\bin\Debug\net5.0\yeld.exe
+C:\Users\Ivan\Desktop\скопин\yeld\bin\Debug\net5.0\yeld.deps.json
+C:\Users\Ivan\Desktop\скопин\yeld\bin\Debug\net5.0\yeld.runtimeconfig.json
+C:\Users\Ivan\Desktop\скопин\yeld\bin\Debug\net5.0\yeld.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\скопин\yeld\bin\Debug\net5.0\yeld.dll
+C:\Users\Ivan\Desktop\скопин\yeld\bin\Debug\net5.0\ref\yeld.dll
+C:\Users\Ivan\Desktop\скопин\yeld\bin\Debug\net5.0\yeld.pdb
+C:\Users\Ivan\Desktop\скопин\yeld\obj\Debug\net5.0\yeld.dll
+C:\Users\Ivan\Desktop\скопин\yeld\obj\Debug\net5.0\ref\yeld.dll
+C:\Users\Ivan\Desktop\скопин\yeld\obj\Debug\net5.0\yeld.pdb
+C:\Users\Ivan\Desktop\скопин\yeld\obj\Debug\net5.0\yeld.genruntimeconfig.cache

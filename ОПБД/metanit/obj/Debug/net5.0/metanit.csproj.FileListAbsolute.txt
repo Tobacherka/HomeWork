@@ -1,0 +1,16 @@
+D:\скопин\скопин2\еще\metanit\bin\Debug\net5.0\metanit.exe
+D:\скопин\скопин2\еще\metanit\bin\Debug\net5.0\metanit.deps.json
+D:\скопин\скопин2\еще\metanit\bin\Debug\net5.0\metanit.runtimeconfig.json
+D:\скопин\скопин2\еще\metanit\bin\Debug\net5.0\metanit.runtimeconfig.dev.json
+D:\скопин\скопин2\еще\metanit\bin\Debug\net5.0\metanit.dll
+D:\скопин\скопин2\еще\metanit\bin\Debug\net5.0\ref\metanit.dll
+D:\скопин\скопин2\еще\metanit\bin\Debug\net5.0\metanit.pdb
+D:\скопин\скопин2\еще\metanit\obj\Debug\net5.0\metanit.csproj.AssemblyReference.cache
+D:\скопин\скопин2\еще\metanit\obj\Debug\net5.0\metanit.GeneratedMSBuildEditorConfig.editorconfig
+D:\скопин\скопин2\еще\metanit\obj\Debug\net5.0\metanit.AssemblyInfoInputs.cache
+D:\скопин\скопин2\еще\metanit\obj\Debug\net5.0\metanit.AssemblyInfo.cs
+D:\скопин\скопин2\еще\metanit\obj\Debug\net5.0\metanit.csproj.CoreCompileInputs.cache
+D:\скопин\скопин2\еще\metanit\obj\Debug\net5.0\metanit.dll
+D:\скопин\скопин2\еще\metanit\obj\Debug\net5.0\ref\metanit.dll
+D:\скопин\скопин2\еще\metanit\obj\Debug\net5.0\metanit.pdb
+D:\скопин\скопин2\еще\metanit\obj\Debug\net5.0\metanit.genruntimeconfig.cache

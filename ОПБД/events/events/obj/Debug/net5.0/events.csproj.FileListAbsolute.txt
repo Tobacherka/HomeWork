@@ -1,0 +1,16 @@
+G:\events\events\bin\Debug\net5.0\events.exe
+G:\events\events\bin\Debug\net5.0\events.deps.json
+G:\events\events\bin\Debug\net5.0\events.runtimeconfig.json
+G:\events\events\bin\Debug\net5.0\events.runtimeconfig.dev.json
+G:\events\events\bin\Debug\net5.0\events.dll
+G:\events\events\bin\Debug\net5.0\ref\events.dll
+G:\events\events\bin\Debug\net5.0\events.pdb
+G:\events\events\obj\Debug\net5.0\events.csproj.AssemblyReference.cache
+G:\events\events\obj\Debug\net5.0\events.GeneratedMSBuildEditorConfig.editorconfig
+G:\events\events\obj\Debug\net5.0\events.AssemblyInfoInputs.cache
+G:\events\events\obj\Debug\net5.0\events.AssemblyInfo.cs
+G:\events\events\obj\Debug\net5.0\events.csproj.CoreCompileInputs.cache
+G:\events\events\obj\Debug\net5.0\events.dll
+G:\events\events\obj\Debug\net5.0\ref\events.dll
+G:\events\events\obj\Debug\net5.0\events.pdb
+G:\events\events\obj\Debug\net5.0\events.genruntimeconfig.cache
